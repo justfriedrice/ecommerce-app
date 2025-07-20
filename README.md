@@ -22,7 +22,7 @@ This project demonstrates a full shopping flow: product listing, cart, and check
 
 ### Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/ecommerce-app.git
+1. git clone https://github.com/YOUR_USERNAME/ecommerce-app.git
 cd ecommerce-app/frontend
 
 2. Install dependencies
