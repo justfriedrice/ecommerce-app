@@ -22,7 +22,6 @@ This project demonstrates a full shopping flow: product listing, cart, and check
 
 ### Clone the repository
 
-```bash
 git clone https://github.com/YOUR_USERNAME/ecommerce-app.git
 cd ecommerce-app/frontend
 
@@ -37,3 +36,5 @@ const STOREFRONT_ACCESS_TOKEN = 'your-storefront-access-token';
 4. Run the app
 npm run dev
 
+### Live Demo
+https://ecommerce-app-brown-three.vercel.app/
